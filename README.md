@@ -9,3 +9,5 @@ To compress:
 
 To uncompress
     dualfqz -d < a.df > a.fastq
+    
+DualFqz was built by substituting DualCtx for the quality score compression module in a variant of Fqzcomp (https://sourceforge.net/projects/fqzcomp/).
